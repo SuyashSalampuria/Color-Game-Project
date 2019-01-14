@@ -1,0 +1,77 @@
+.heading
+{
+	color: white;
+	background-color: #3c76ae;
+	text-align: center;
+}
+.subhead
+{
+	color: #3c76ae;
+	background-color: white;
+}
+#credit
+{
+	margin-left: 24%;
+}
+.square
+{
+	width: 30%;
+	padding-top: 30%;
+	float: left;
+	margin: 1.66%;
+	background-color: purple;
+}
+
+#container
+{
+	padding-top: 20px;
+	margin: 0 auto;
+	max-width: 600px;
+}
+#result
+{
+	margin-left: 200px;
+	color: black;
+	width: 10px;
+	border: none;
+}
+body
+{
+	background-color: black;
+}
+#easy
+{
+	margin-left: 20%;
+	text-decoration-line: none;
+}
+
+#hard
+{
+	text-decoration: none;
+}
+#just
+{
+	margin-left: 25%;
+	color: #3c76ae;
+	background-color: white;
+}
+#easy:hover
+{
+	color: white;
+	background-color: #3c76ae;
+}
+#hard:hover
+{
+	color: white;
+	background-color: #3c76ae;
+}
+#just:hover
+{
+	color: white;
+	background-color: #3c76ae;
+}
+.selected
+{
+	color: white;
+	background-color: #3c76ae;
+}
